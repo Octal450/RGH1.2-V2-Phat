@@ -54,3 +54,5 @@ sch2HdlBatchFile
 *.jed
 *.bat
 *.py
+*.xsvf
+*.svf
