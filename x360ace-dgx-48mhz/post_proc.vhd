@@ -21,7 +21,7 @@ end post_proc;
 architecture arch of post_proc is
 
 constant R_LEN : integer := 2;
-constant R_STA : integer := 349839; -- 18 - 21 best
+constant R_STA : integer := 349821; -- 18 - 21 best
 constant T_BUF : integer := 50000;
 constant T_END : integer := R_STA + R_LEN + T_BUF;
 
