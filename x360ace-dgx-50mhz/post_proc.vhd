@@ -1,4 +1,4 @@
--- RGH1.2 Code for X360ACE/DGX, Falcon/Jasper 150 MHz Version
+-- RGH1.2 Code for X360ACE/DGX, Falcon/Jasper 50 MHz Version
 -- 15432, GliGli, Octal450
 
 library IEEE;
